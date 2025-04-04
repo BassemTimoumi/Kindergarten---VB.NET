@@ -1,0 +1,26 @@
+C:\Users\BASS\Desktop\fac w majebt ness\PEVEN\project peven\project peven\obj\Debug\net6.0-windows\project_peven.Form1.resources
+C:\Users\BASS\Desktop\fac w majebt ness\PEVEN\project peven\project peven\obj\Debug\net6.0-windows\project_peven.Form2.resources
+C:\Users\BASS\Desktop\fac w majebt ness\PEVEN\project peven\project peven\obj\Debug\net6.0-windows\project peven.vbproj.GenerateResource.cache
+C:\Users\BASS\Desktop\fac w majebt ness\PEVEN\project peven\project peven\obj\Debug\net6.0-windows\project peven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BASS\Desktop\fac w majebt ness\PEVEN\project peven\project peven\obj\Debug\net6.0-windows\project peven.AssemblyInfoInputs.cache
+C:\Users\BASS\Desktop\fac w majebt ness\PEVEN\project peven\project peven\obj\Debug\net6.0-windows\project peven.AssemblyInfo.vb
+C:\Users\BASS\Desktop\fac w majebt ness\PEVEN\project peven\project peven\obj\Debug\net6.0-windows\project peven.vbproj.CoreCompileInputs.cache
+C:\Users\BASS\Desktop\fac w majebt ness\PEVEN\project peven\project peven\bin\Debug\net6.0-windows\project peven.exe
+C:\Users\BASS\Desktop\fac w majebt ness\PEVEN\project peven\project peven\bin\Debug\net6.0-windows\project peven.deps.json
+C:\Users\BASS\Desktop\fac w majebt ness\PEVEN\project peven\project peven\bin\Debug\net6.0-windows\project peven.runtimeconfig.json
+C:\Users\BASS\Desktop\fac w majebt ness\PEVEN\project peven\project peven\bin\Debug\net6.0-windows\project peven.dll
+C:\Users\BASS\Desktop\fac w majebt ness\PEVEN\project peven\project peven\bin\Debug\net6.0-windows\project peven.pdb
+C:\Users\BASS\Desktop\fac w majebt ness\PEVEN\project peven\project peven\obj\Debug\net6.0-windows\project peven.dll
+C:\Users\BASS\Desktop\fac w majebt ness\PEVEN\project peven\project peven\obj\Debug\net6.0-windows\refint\project peven.dll
+C:\Users\BASS\Desktop\fac w majebt ness\PEVEN\project peven\project peven\obj\Debug\net6.0-windows\project peven.pdb
+C:\Users\BASS\Desktop\fac w majebt ness\PEVEN\project peven\project peven\obj\Debug\net6.0-windows\project peven.genruntimeconfig.cache
+C:\Users\BASS\Desktop\fac w majebt ness\PEVEN\project peven\project peven\obj\Debug\net6.0-windows\ref\project peven.dll
+C:\Users\BASS\Desktop\fac w majebt ness\PEVEN\project peven\project peven\obj\Debug\net6.0-windows\project_peven.Form3.resources
+C:\Users\BASS\Desktop\fac w majebt ness\PEVEN\project peven\project peven\obj\Debug\net6.0-windows\project_peven.Form4.resources
+C:\Users\BASS\Desktop\fac w majebt ness\PEVEN\project peven\project peven\obj\Debug\net6.0-windows\project_peven.Form5.resources
+C:\Users\BASS\Desktop\fac w majebt ness\PEVEN\project peven\project peven\obj\Debug\net6.0-windows\project_peven.Form6.resources
+C:\Users\BASS\Desktop\fac w majebt ness\PEVEN\project peven\project peven\obj\Debug\net6.0-windows\project_peven.Form9.resources
+C:\Users\BASS\Desktop\fac w majebt ness\PEVEN\project peven\project peven\obj\Debug\net6.0-windows\project_peven.Form7.resources
+C:\Users\BASS\Desktop\fac w majebt ness\PEVEN\project peven\project peven\obj\Debug\net6.0-windows\project_peven.Form8.resources
+C:\Users\BASS\Desktop\fac w majebt ness\PEVEN\project peven\project peven\obj\Debug\net6.0-windows\project_peven.Form10.resources
+C:\Users\BASS\Desktop\fac w majebt ness\PEVEN\project peven\project peven\obj\Debug\net6.0-windows\project_peven.Resources.resources
